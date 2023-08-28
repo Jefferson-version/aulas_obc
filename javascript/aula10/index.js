@@ -8,6 +8,6 @@ console.warn(atention);
 
 // window.alert(nome);
 // nome = window.prompt("insira o seu nome:");
-let confirmacao = window.confirm("confirmar ação ?");
+// let confirmacao = window.confirm("confirmar ação ?");
 
-console.log(confirmacao);
+// console.log(confirmacao);
